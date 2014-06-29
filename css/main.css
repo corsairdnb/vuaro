@@ -33,6 +33,9 @@ figcaption {
 h1 {
     text-align: center;
 }
+button {
+    font-size: 12px;
+}
 .cart {
     flex: 2.8 0 0;
     background: whitesmoke;
@@ -61,7 +64,6 @@ h1 {
     display: block;
     width: 25%;
     float: right;
-    font-size: 12px;
 }
 .clear {
     position: absolute;
