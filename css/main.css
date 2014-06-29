@@ -1,0 +1,74 @@
+html, body {
+    height: 100%;
+}
+body {
+    min-width: 870px;
+    margin: 0;
+    font-family: sans-serif;
+    display: flex;
+    background: #eee;
+}
+.content {
+    flex: 6 0 0;
+}
+.catalog {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+}
+figure {
+    flex: 0 0 250px;
+    margin: 10px;
+    padding: 20px 5px;
+    border: 1px solid #ccc;
+    background: #fff;
+    text-align: center;
+}
+figcaption {
+    margin: 5px 0;
+    font-size: larger;
+    color: #666;
+}
+h1 {
+    text-align: center;
+}
+.cart {
+    flex: 2.8 0 0;
+    background: whitesmoke;
+    border-left: 1px solid #ccc;
+    position: relative;
+}
+.list {
+    margin: 30px 0;
+    padding: 0 20px;
+}
+.list li {
+    display: block;
+    overflow: hidden;
+    margin: 10px 0 0;
+}
+.list b {
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 73%;
+    float: left;
+    margin: 0 2% 0 0;
+}
+.list button {
+    display: block;
+    width: 25%;
+    float: right;
+    font-size: 12px;
+}
+.clear {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: #666;
+    cursor: pointer;
+    font-size: smaller;
+    text-decoration: underline;
+}

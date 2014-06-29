@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0",
+        "name": "Apple iPhone 4 16Gb",
+        "image": "img/iphone.jpg",
+        "price": "12 520 руб."
+    },
+    {
+        "id": "1",
+        "name": "Apple iPad mini 16Gb Wi-Fi",
+        "image": "img/ipad.jpg",
+        "price": "11 990 руб."
+    },
+    {
+        "id": "2",
+        "name": "Apple iPod classic 3 160Gb",
+        "image": "img/ipod.jpg",
+        "price": "9 990 руб."
+    },
+    {
+        "id": "3",
+        "name": "Apple iPod classic 3 80Gb",
+        "image": "img/ipod.jpg",
+        "price": "10 990 руб."
+    },
+    {
+        "id": "4",
+        "name": "Apple iPhone",
+        "image": "img/iphone.jpg",
+        "price": "25 999 руб."
+    },
+    {
+        "id": "5",
+        "name": "Apple iPad mini 64Gb Wi-Fi",
+        "image": "img/ipad.jpg",
+        "price": "20 990 руб."
+    },
+    {
+        "id": "6",
+        "name": "Apple iPhone",
+        "image": "img/iphone.jpg",
+        "price": "25 999 руб."
+    },
+    {
+        "id": "7",
+        "name": "Apple iPad mini 64Gb Wi-Fi",
+        "image": "img/ipad.jpg",
+        "price": "20 990 руб."
+    }
+]

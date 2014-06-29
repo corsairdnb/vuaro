@@ -1,0 +1,13 @@
+{
+    "name": "Test job for Vuaro",
+    "version": "1.0.0",
+    "dependencies": {
+        "jquery": null,
+        "backbone-amd": null,
+        "underscore-amd": null,
+        "handlebars": null,
+        "requirejs": null,
+        "requirejs-text": null,
+        "backbone.localstorage": null
+    }
+}
